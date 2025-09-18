@@ -81,3 +81,5 @@ python gui.py
 Login as Admin or Teacher.
 
 Start managing student records, attendance, marks, and fees.
+### 👨‍💻 Author
+Created by **Anuj Tiwari**
