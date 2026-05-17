@@ -13,6 +13,7 @@ Admin → (username: admin, password: 1234)
 Teacher → (username: teacher, password: 1234)
 
 🏫 Admin Features
+---
 
 Dashboard – Quick overview of system.
 <img width="1007" height="634" alt="image" src="https://github.com/user-attachments/assets/61fed7d4-5ecc-4795-a038-a5ff41e54337" />
@@ -20,6 +21,8 @@ Dashboard – Quick overview of system.
 
 Manage Students – Add, Edit, Delete, and View student details (Name, Roll No, Class, Age).
 <img width="1366" height="733" alt="image" src="https://github.com/user-attachments/assets/26da1566-783f-4ba5-ab86-0ea5a778d452" />
+
+---
 
 
 Attendance – Mark and track attendance.
